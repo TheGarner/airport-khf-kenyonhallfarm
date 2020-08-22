@@ -1,4 +1,4 @@
-# airport-khf-kenyonhallfarm
+# Kenyon Hall Farm Airstrip
 
 Kenyon Hall Farm is an unlicensed airstrip located near Warrington and Newton-Le-Willows (United Kingdom). This download will allow the airfield to be selectable on the map. It includes runway markings, parking, and a few static objects. 
 
