@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/thegarner-airport-khf-strip/Thumbnail.jpg",
+      "size": 19084,
+      "date": 132432932600000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 295,
+      "date": 132466677220313908
+    },
+    {
+      "path": "scenery/khf.bgl",
+      "size": 37931,
+      "date": 132466679417349755
+    },
+    {
+      "path": "scenery/TEST-KHF-POLY.BGL",
+      "size": 2286,
+      "date": 132466679417472478
+    }
+  ]
+}

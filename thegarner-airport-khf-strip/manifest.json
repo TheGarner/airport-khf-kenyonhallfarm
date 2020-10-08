@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "Kenyon Hall Farm Airstrip",
+  "manufacturer": "",
+  "creator": "",
+  "package_version": "1.2.0",
+  "minimum_game_version": "1.9.3",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
