@@ -4,16 +4,21 @@ Kenyon Hall Farm is an unlicensed airstrip located near Warrington and Newton-Le
 Currently home of the "Lancashire Aero Club" - http://lancsaeroclub.co.uk/lac/index.php
 Use the code KHF to be able to locate the airport on the Microsoft Flight Simulator map. 
 
+
 ### Pictures
 Ground - https://prnt.sc/uvrx9s // https://prnt.sc/uvrwly
+
 Airbourne - https://prnt.sc/uvsi0f // https://prnt.sc/uvs1fx
+
 LittleNavMap - https://prnt.sc/uvscw3 // https://prnt.sc/uvrwly
+
 
 ### Installation Steps
 
 Unzip the file "airport-khf-strip.zip" from "Releases" to your Microsoft Flight Simulator installation directory under the "Community" folder. 
 
 ### Version Changelog
+
 v1.2.1 (Released 08/10/2020) - _CURRENT
 * Removed Static Aircraft (Now only uses AI Traffic AND/OR VATSIM etc)
 * There are now 6 GA Parking Zones, facing perpendicular to the runway
