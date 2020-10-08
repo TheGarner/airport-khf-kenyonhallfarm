@@ -19,7 +19,7 @@ Unzip the file "airport-khf-strip.zip" from "Releases" to your Microsoft Flight 
 
 ### Version Changelog
 
-v1.2.1 (Released 08/10/2020) - _CURRENT
+v1.2.1 (Released 08/10/2020) - *CURRENT
 * Removed Static Aircraft (Now only uses AI Traffic AND/OR VATSIM etc)
 * There are now 6 GA Parking Zones, facing perpendicular to the runway
 * Windstock location corrected
